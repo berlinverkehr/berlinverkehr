@@ -4,10 +4,10 @@ post_title: 'Bahnhöfe: Kein Fahrstuhl für Johannisthal?, aus Senat'
 post_name: >
   bahnhoefe-kein-fahrstuhl-fuer-johannisthal-aus-senat
 author: Ralf Reineke
-post_date: 2020-12-19 07:51:38
+post_date: 2020-12-08 07:51:38
 layout: post
 link: >
-  https://archiv.berliner-verkehr.de/2020/12/19/bahnhoefe-kein-fahrstuhl-fuer-johannisthal-aus-senat/
+  https://archiv.berliner-verkehr.de/2020/12/08/bahnhoefe-kein-fahrstuhl-fuer-johannisthal-aus-senat/
 published: true
 tags:
   - Aufzug
