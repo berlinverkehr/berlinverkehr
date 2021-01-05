@@ -9,7 +9,12 @@ layout: post
 link: >
   https://archiv.berliner-verkehr.de/2021/01/04/parkeisenbahn-in-schweren-zeiten-gutes-tun-die-berliner-parkeisenbahn-in-der-wuhlheide-hatte-2020-aufgrund-der-corona-pandemie-deutlich-geringere-fahrgastzahlen-als-im-jahr-2019-aus-parkeisenbahn/
 published: true
-tags: [ ]
+tags:
+  - Lebkuchenloks
+  - Parkeisenbahn
+  - Parkeisenbahner
+  - Weihnachtsaktion
+  - Wuhlheide
 categories:
   - Parkeisenbahn
 ---
