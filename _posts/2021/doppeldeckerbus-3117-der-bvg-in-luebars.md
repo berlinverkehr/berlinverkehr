@@ -10,6 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - Uncategorized
+  - Bus
+  - Fahrzeuge
 ---
 <div><img src='https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/145832462_436620727691385_5895399308344759562_n.jpg?_nc_cat=110&ccb=2&_nc_sid=8ae9d6&_nc_ohc=_wzGiOZWm4QAX8l4B5J&_nc_ht=scontent-ort2-1.cdninstagram.com&oh=06d2858fd1fed997d96cd370c97152c7&oe=60413823' style='max-width:600px;' /><br/><div>from Instagram: https://instagr.am/p/CK3cQsOJU0M/</div></div>
